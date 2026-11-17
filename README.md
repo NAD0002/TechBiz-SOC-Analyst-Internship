@@ -2,6 +2,9 @@
 # 🛡️ SOC Analyst Internship — TechBiz Academy
 
 This repository documents my hands-on practical labs, technical reports, and defensive security exercises completed during my **SOC Analyst Internship** at **TechBiz Academy**.
+
+
+
 <img width="591" height="719" alt="image" src="https://github.com/user-attachments/assets/04d08edd-62a1-4032-91bd-ad7ca8b2957d" />
 
 
