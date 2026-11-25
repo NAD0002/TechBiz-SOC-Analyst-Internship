@@ -19,6 +19,12 @@ This repository documents my hands-on practical labs, technical reports, and def
 | **Task 2** | **Networking Basics for Defenders** | 7-Layer OSI Model & Encapsulation, Common Network Ports & Protocols, DNS Resolution Hierarchy, TryHackMe (*What is Networking*, *Introductory Networking*, *DNS in Detail*) | [View Report](./Week-01-Foundations-and-Lab-Setup/Week1_Task2.pdf) | 10/10 |
 | **Task 3** | **SOC Home Lab Setup** | Oracle VirtualBox deployment, Kali Linux & Windows 10 VM configuration, Bridged Networking, Windows Firewall ICMP rules, bidirectional connectivity testing, TryHackMe (*Windows Fundamentals 1*) | [View Report](./Week-01-Foundations-and-Lab-Setup/Week1_Task3.pdf) | 10/10 |
 
+### Week 2: Linux, Windows Event Logs & Log Analysis Basics
+| Task | Topic | Key Concepts & Practical Work | Report | Score |
+| :--- | :--- | :--- | :--- | :--- |
+| **Task 4** | **Linux Basics & Log Files (`/var/log`)** | Essential Linux CLI commands (`ls`, `grep`, `tail`), `/var/log` structure (`auth.log`, `syslog`, `cron.log`, `kern.log`), live authentication monitoring & failed login searches, TryHackMe (*Linux Fundamentals Pt1*, *Intro to Logs*) | [View Report](./Week-02-Linux-Windows-and-Log-Analysis/Week2_Task4.pdf) | 10/10 |
+| **Task 5** | **Windows Logs & Event Viewer (Event IDs)** | Windows Event Viewer navigation, critical Security & System Event IDs (`4625`, `1102`, `4657`, `4688`, `41`), hands-on Event ID `4625` (failed logon) filtering & status code analysis, TryHackMe (*Windows Fundamentals 1*, *Investigating Windows*) | [View Report](./Week-02-Linux-Windows-and-Log-Analysis/Week2_Task5.pdf) | 10/10 |
+| **Task 6** | **Understanding Logs & Log Analysis Basics** | Log categories (System, Security, Application, Network, Web Server), security baselining, Apache web server deployment & `access.log` analysis (normal `200` vs. reconnaissance `404` requests), TryHackMe (*Intro to Logs*, *Investigating Windows*) | [View Report](./Week-02-Linux-Windows-and-Log-Analysis/Week2_Task6.pdf) | 10/10 |
 ---
 
 ## 🛠️ Tools & Platforms Used
